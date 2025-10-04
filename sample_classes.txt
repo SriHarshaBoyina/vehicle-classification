@@ -1,0 +1,12 @@
+auto-rickshaw
+bicycle
+bus
+car
+e-rickshaw
+mini-bus
+mini-truck
+motorcycle
+rickshaw
+tractor
+truck
+van

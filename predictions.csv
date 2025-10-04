@@ -1,0 +1,5 @@
+filename,predicted_class,confidence
+autorickshaw.png → auto-rickshaw, confidence: 0.912
+car.png → car, confidence: 0.995
+van.png → truck, confidence: 0.876
+
